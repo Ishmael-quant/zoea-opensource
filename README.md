@@ -74,7 +74,7 @@ other consideration.
 6. Testing/QA – Write or review test cases
 7. Code Reviews – Help others by reviewing their PRs
 
-- Those are among some ways we can contribute to open source projects. But why should we even contribute to the projects?
+- Those are among some ways we can contribute to open source projects. But why should you even contribute to the projects?
 
 ## Reasons to Contribute
 
